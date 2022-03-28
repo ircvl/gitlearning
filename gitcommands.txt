@@ -1,1 +1,5 @@
 git init =[initiolization of git ]
+git add -A=[adding files to staging area]
+git commit -m "your msg" =[adding files to local repo]
+git status =[lisitng all untracked files]
+git push =[]
