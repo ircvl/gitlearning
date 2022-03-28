@@ -1,0 +1,1 @@
+git init =[initiolization of git ]
